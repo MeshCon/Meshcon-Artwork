@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600mm"
+   height="140mm"
+   viewBox="0 0 2125.9843 496.06299"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="meshcon_call.svg"
+   inkscape:export-filename="/home/makeman/Dropbox/Logos/meshcon/meshconbox.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="shape-rendering:crispEdges">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7186"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7188" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7190" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5499"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5501" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5503" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4178"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ea33a2;stop-opacity:1;"
+         offset="0"
+         id="stop4180" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4172"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4174" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4166"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ea33a2;stop-opacity:1;"
+         offset="0"
+         id="stop4168" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5654"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffff96;stop-opacity:1;"
+         offset="0"
+         id="stop5656" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5625"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ca59f4;stop-opacity:1;"
+         offset="0"
+         id="stop5627" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6057"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6059" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5975"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5977" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5637"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient5627"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d20000;stop-opacity:1;"
+         offset="0"
+         id="stop5629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5625"
+       id="linearGradient4179"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1305406,0,0,1.1305407,11.280904,-131.78768)"
+       x1="141.03711"
+       y1="403.32022"
+       x2="633.23584"
+       y2="403.32022" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5625"
+       id="linearGradient5629"
+       x1="161.96198"
+       y1="329.48318"
+       x2="707.20728"
+       y2="329.48318"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4178"
+       id="linearGradient4182"
+       x1="96.161957"
+       y1="339.44699"
+       x2="798.54443"
+       y2="339.44699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.032506,0,0,0.99912231,-3.232906,0.29793199)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4178"
+       id="linearGradient7194"
+       x1="1013.7869"
+       y1="342.26782"
+       x2="2146.2322"
+       y2="342.26782"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient7268"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(48.568549,-44.284273)"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4166"
+       id="linearGradient7270"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(13.784341,-1.3779536e-6)"
+       x1="175.01424"
+       y1="278.48392"
+       x2="915.55292"
+       y2="278.48392" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e8e8e8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="217.09732"
+     inkscape:cy="154.67161"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-96.161956,-80.072594)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Incopins Clusters';-inkscape-font-specification:'Incopins Clusters';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient7268);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="462.69046"
+       y="356.57016"
+       id="text4163"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/makeman/git/2015.meshcon.net/img/meshcon_pink.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         id="tspan4165"
+         x="462.69046"
+         y="356.57016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Incopins Clusters';-inkscape-font-specification:'Incopins Clusters';stroke:url(#linearGradient7268)" /></text>
+    <g
+       id="g7008"
+       transform="translate(93.01527,-66.437805)">
+      <text
+         inkscape:export-filename="/home/makeman/git/2015.meshcon.net/img/meshcon_pink.png"
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         transform="scale(0.82040471,1.2189106)"
+         sodipodi:linespacing="100%"
+         id="text5901"
+         y="335.66974"
+         x="185.86824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.57835388px;line-height:100%;font-family:'Incopins Clusters';-inkscape-font-specification:'Incopins Clusters';letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#f535aa;fill-opacity:1;stroke:url(#linearGradient7270);stroke-width:1.92983615;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:10;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4169"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:169.73417664px;line-height:100%;font-family:'Incopins Clusters B';-inkscape-font-specification:'Incopins Clusters B';fill:#f535aa;fill-opacity:1;stroke:url(#linearGradient7270);stroke-width:1.92983615;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:10;stroke-opacity:1"
+           y="335.66974"
+           x="185.86824"
+           sodipodi:role="line">meshcon</tspan></text>
+      <rect
+         inkscape:export-filename="/home/makeman/git/2015.meshcon.net/img/meshcon_pink.png"
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         ry="34.12051"
+         y="225.90891"
+         x="102.62387"
+         height="227.07617"
+         width="712.07617"
+         id="rect3359-8"
+         style="fill:#ffc8ff;fill-opacity:0;fill-rule:evenodd;stroke:url(#linearGradient4182);stroke-width:12.92382908;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:69.83480072;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Incopins Clusters';-inkscape-font-specification:'Incopins Clusters';letter-spacing:0px;word-spacing:0px;fill:#ea33a2;fill-opacity:1;stroke:#ea33a3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.76862746;"
+       x="1000.6057"
+       y="207.57169"
+       id="text5485"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5487"
+         x="1000.6057"
+         y="207.57169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Incopins Clusters B';-inkscape-font-specification:'Incopins Clusters B';fill:#ea33a2;fill-opacity:1;stroke:#ea33a3;stroke-opacity:0.76862746;">Call for Speakers and Projects</tspan><tspan
+         sodipodi:role="line"
+         x="1000.6057"
+         y="307.57169"
+         id="tspan5489"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Incopins Clusters B';-inkscape-font-specification:'Incopins Clusters B';fill:#ea33a2;fill-opacity:1;stroke:#ea33a3;stroke-opacity:0.76862746;">meshcon at Maker Faire Berlin</tspan><tspan
+         sodipodi:role="line"
+         x="1000.6057"
+         y="407.57169"
+         id="tspan5491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Incopins Clusters B';-inkscape-font-specification:'Incopins Clusters B';fill:#ea33a2;fill-opacity:1;stroke:#ea33a3;stroke-opacity:0.76862746;">talks, workshops, booths, </tspan><tspan
+         sodipodi:role="line"
+         x="1000.6057"
+         y="507.57169"
+         id="tspan5493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Incopins Clusters B';-inkscape-font-specification:'Incopins Clusters B';fill:#ea33a2;fill-opacity:1;stroke:#ea33a3;stroke-opacity:0.76862746;">lightning talks hacks</tspan></text>
+  </g>
+</svg>
